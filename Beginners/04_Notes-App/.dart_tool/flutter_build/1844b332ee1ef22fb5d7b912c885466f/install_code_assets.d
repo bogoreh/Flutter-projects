@@ -1,0 +1,1 @@
+ /home/abdibogoreh/Downloads/flutter-Notes-App-main/.dart_tool/flutter_build/1844b332ee1ef22fb5d7b912c885466f/native_assets.json: 
