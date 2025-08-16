@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__calculator
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /snap/flutter/149/usr/bin/cmake -S/home/abdibogoreh/Downloads/calculator-app-flutter-main/linux -B/home/abdibogoreh/Downloads/calculator-app-flutter-main/build/linux/x64/debug
+  command = /snap/flutter/149/usr/bin/cmake -S/home/abdibogoreh/Documents/GitHub/Flutter-projects/Beginners/003_calculator-app/linux -B/home/abdibogoreh/Documents/GitHub/Flutter-projects/Beginners/003_calculator-app/build/linux/x64/debug
   description = Re-running CMake...
   generator = 1
 

@@ -1,8 +1,8 @@
-# Install script for directory: /home/abdibogoreh/Downloads/calculator-app-flutter-main/linux/flutter
+# Install script for directory: /home/abdibogoreh/Documents/GitHub/Flutter-projects/Beginners/003_calculator-app/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/abdibogoreh/Downloads/calculator-app-flutter-main/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/abdibogoreh/Documents/GitHub/Flutter-projects/Beginners/003_calculator-app/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
