@@ -1,0 +1,58 @@
+import '../models/product.dart';
+
+List<Product> dummyProducts = [
+  Product(
+    id: '1',
+    name: 'Wireless Headphones',
+    description: 'High-quality wireless headphones with noise cancellation',
+    price: 99.99,
+    imageUrl: 'assets/images/headphones.jpg',
+    category: 'Electronics',
+    rating: 4.5,
+  ),
+  Product(
+    id: '2',
+    name: 'Smart Watch',
+    description: 'Feature-rich smartwatch with health monitoring',
+    price: 199.99,
+    imageUrl: 'assets/images/smartwatch.jpg',
+    category: 'Electronics',
+    rating: 4.3,
+  ),
+  Product(
+    id: '3',
+    name: 'Running Shoes',
+    description: 'Comfortable running shoes for all terrains',
+    price: 79.99,
+    imageUrl: 'assets/images/shoes.jpg',
+    category: 'Fashion',
+    rating: 4.7,
+  ),
+  Product(
+    id: '4',
+    name: 'Backpack',
+    description: 'Durable backpack with laptop compartment',
+    price: 49.99,
+    imageUrl: 'assets/images/backpack.jpg',
+    category: 'Accessories',
+    rating: 4.2,
+  ),
+  Product(
+    id: '5',
+    name: 'Water Bottle',
+    description: 'Insulated stainless steel water bottle',
+    price: 24.99,
+    imageUrl: 'assets/images/bottle.jpg',
+    category: 'Accessories',
+    rating: 4.6,
+  ),
+  Product(
+    id: '6',
+    name: 'Sunglasses',
+    description: 'Polarized sunglasses with UV protection',
+    price: 39.99,
+    imageUrl: 'assets/images/sunglasses.jpg',
+    category: 'Fashion',
+    rating: 4.4,
+  ),
+];
